@@ -75,10 +75,10 @@ h2 {
 .container {
   position: relative;
   overflow: hidden;
-  width: 100vw;
+  width: 60vw;
   height: 100vh;
+  margin-left: 600px;
   float: right;
-  padding:100px;
   
 }
 
